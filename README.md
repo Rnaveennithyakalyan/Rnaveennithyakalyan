@@ -39,7 +39,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   
-![Snake Animation](https://github.com/Rnaveennithyakalyan/Rnaveennithyakalyan/blob/output/github-contribution-grid-snake.svg)
+[![Snake Animation](https://github.com/Rnaveennithyakalyan/Rnaveennithyakalyan/blob/output/github-contribution-grid-snake.svg)](https://github.com/Rnaveennithyakalyan/Rnaveennithyakalyan/blob/output/github-contribution-grid-snake.svg)
   
   <br/><br/><br/>
 </div>
