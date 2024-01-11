@@ -29,7 +29,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,vscode,github,git,c++" />
+    <img src="https://skillicons.dev/icons?i=html,vscode,github,git" />
     <img src="https://skillicons.dev/icons?i=python,mongodb,c,java,mysql" /><br>
 </div>
 
@@ -38,7 +38,7 @@
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <br>
+  
 ![Snake Animation](https://github.com/Rnaveennithyakalyan/Rnaveennithyakalyan/blob/output/github-contribution-grid-snake.svg)
   
   <br/><br/><br/>
