@@ -39,8 +39,6 @@
 
 ## GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rnaveennithyakalyan&theme=dark) 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rnaveennithyakalyan&layout=compact&theme=dark)](https://github.com/Rnaveennithyakalyan/Rnaveennithyakalyan)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rnaveennithyakalyan&show_icons=true&theme=dark)
