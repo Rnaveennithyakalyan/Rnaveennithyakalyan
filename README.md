@@ -39,9 +39,10 @@
 
 ## GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rnaveennithyakalyan&layout=compact&theme=dark)](https://github.com/Rnaveennithyakalyan/Rnaveennithyakalyan)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rnaveennithyakalyan&layout=compact&theme=dark
+)](https://github.com/Rnaveennithyakalyan/Rnaveennithyakalyan)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rnaveennithyakalyan&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-streak-stats.vercel.app/api?user=Rnaveennithyakalyan&show_icons=true&theme=dark)
 
 <br/><br/>
 
